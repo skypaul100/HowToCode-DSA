@@ -43,4 +43,4 @@ int main()
 }
 
 //Time Complexity= n+ n/2 + n/4 +...+2+1== O(log n)
-//Space  "       =constant array and variables== O(1)
+//Space  complexity =constant array and variables== O(1)
