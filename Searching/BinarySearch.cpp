@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int binarySearch(int ar[],int size,int key)
+int binarySearch(int ar[],int size,int key)//algo
 {
  int low=0;
  int high=size-1;
