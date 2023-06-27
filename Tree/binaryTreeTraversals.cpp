@@ -1,5 +1,6 @@
 //create BT + insert data elements into BT
 //level order + inorder +preorder + postorder
+//algo
 
 #include <iostream>
 #include<queue>
